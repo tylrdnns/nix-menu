@@ -5,5 +5,6 @@
                 aichat
                 git
                 neovim
+                tmux
         ];
 }
